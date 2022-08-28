@@ -1,2 +1,4 @@
-# allisonhall9917.github.io
-website
+Web Exersise One: Creating a Wesbsite through GitHub
+
+    By Allison Hall
+    
